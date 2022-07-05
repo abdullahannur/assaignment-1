@@ -6,6 +6,9 @@
     background-repeat:no-repeat ;
     background-size:cover ;
     position: relative;
+   
+   
+   
 
 }
 .head-text{
@@ -21,9 +24,36 @@
 .link{
     text-decoration: none;
     background-color:red ;
-    background-image: linear-gradient(orange,tomato);
+    background-image: linear-gradient(rgb(0, 157, 255),tomato);
     color: white;
-    font-weight: 700;
+    font-weight: 600;
     padding: 10px 40px ;
     border-radius: 5px;
 }
+.ammount{
+    text-align: center;
+}
+.button{
+    background-color: #eaf6ea;
+  border: none;
+  color:black;
+  padding: 28px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  
+}
+.button2{
+    border:2px solid red;
+    color:red;
+    background-color: rgb(246, 180, 180);
+    padding: 28px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+}
+ 
