@@ -1,5 +1,5 @@
 .head-img{
-    background-image: url( donate-today-main/donate-today-main/images/chossen.jpg   );
+    background-image: url(donate-today-main/donate-today-main/images/chossen.jpg   );
     background-color: #cccccc;
     height: 500px;
     background-position:center;
@@ -58,4 +58,16 @@
     font-size: 16px;
     font-weight: 700;
 }
- 
+.other{
+    border-width: 0px;
+    border:none;
+    outline:none;
+    font-size: 20px;
+    text-align: center;
+
+   
+}
+ .Donate3{
+    text-align: center;
+    padding:50px 50px ;
+ }
