@@ -94,3 +94,8 @@
 .last-email{
     text-align: center;
 }
+.last-email{
+    display:block;
+    background-color: rgb(246, 220, 211);
+    padding:80px 30px;
+}
