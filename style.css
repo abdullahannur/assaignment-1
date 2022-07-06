@@ -71,3 +71,13 @@
     text-align: center;
     padding:50px 50px ;
  }
+ .flexible{
+    display: flex;
+    margin-bottom: 200px;
+ }
+ .plan{
+    margin:10px;
+    border: 10px ;
+    padding: 10px;
+    
+ }
