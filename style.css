@@ -7,8 +7,6 @@
     background-size:cover ;
     position: relative;
    
-   
-   
 
 }
 .head-text{
@@ -98,4 +96,16 @@
     display:block;
     background-color: rgb(246, 220, 211);
     padding:80px 30px;
+    
+}
+.last-img{
+    background-color:black;
+    padding: 20px 20px ;
+}
+.last-text{
+    color:white;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+
+    
 }
