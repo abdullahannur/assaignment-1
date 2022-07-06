@@ -74,6 +74,7 @@
  .flexible{
     display: flex;
     margin-bottom: 200px;
+    padding: 20px 20px ;
  }
  .plan{
     margin:10px;
@@ -81,3 +82,15 @@
     padding: 10px;
     
  }
+ .text{
+    width: 50%;
+ }
+ .red-color{
+    color: red;
+ }
+ h1{
+    font-size:50px;
+ }
+.last-email{
+    text-align: center;
+}
